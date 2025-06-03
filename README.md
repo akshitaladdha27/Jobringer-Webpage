@@ -9,7 +9,7 @@ This is a simple HTML and CSS webpage created as part of a web development assig
 ## 🔗 Live Demo
 
 View the live page here:  
-[https://yourusername.github.io/your-repo-name/](https://yourusername.github.io/your-repo-name/)
+[https://akshitaladdha27.github.io/Jobringer-Webpage/](https://akshitaladdha27.github.io/Jobringer-Webpage/)
 
 ## 📁 Files Included
 
